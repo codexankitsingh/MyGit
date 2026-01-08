@@ -1,0 +1,10 @@
+{
+  "id": "4f47960098279b832203545f2eea580ac5568d2e",
+  "message": "First commit",
+  "author": "Unknown <unknown@example.com>",
+  "timestamp": "2026-01-08T07:26:15.394Z",
+  "parent": null,
+  "tree": {
+    "README.md": "f972928a899f6dc46340ab35147ab060c639ed2f"
+  }
+}
